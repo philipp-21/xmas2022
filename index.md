@@ -4,8 +4,8 @@
 2. QR-Code scannen und Bitcoin erhalten
 
 ##### Hinweise für Muun Wallet:
-- zur sicheren Verwahrung sollten alle in der App vorgeschlagenen Backup-Methoden durchgeführt werden
-- um Gebühren beim Versenden zu minimieren, sollte unter (*Settings - Lightning Network*) **Turbo channels** deaktiviert werden
+- zur sicheren Aufbewahrung sollten alle in der App vorgeschlagenen Backup-Methoden durchgeführt werden
+- um Gebühren beim Versenden zu minimieren, sollte (unter *Settings - Lightning Network*) **Turbo channels** deaktiviert werden
 
 ## Was ist Bitcoin?
 
@@ -14,4 +14,4 @@
 
 ---
 
-[^1]: Ein **Bitcoin Wallet** ist eine Software oder ein Gerät zum Senden, Empfangen und Aufbewahren von Bitcoin. **Lightning** bedeutet, dass das Senden und Empfangen über das Lightning Netzwerk erfolgen kann, welches auf dem Bitcoin Netzwerk aufbaut, und blitzschnelle Transaktionen mit extrem niedrigen Gebühren ermöglicht.
+[^1]: Ein **Bitcoin Wallet** ist eine Software oder ein Gerät zum Senden, Empfangen und Verwahren von Bitcoin. **Lightning** bedeutet, dass das Senden und Empfangen über das Lightning Netzwerk erfolgen kann, welches auf dem Bitcoin Netzwerk aufbaut, und blitzschnelle Transaktionen mit extrem niedrigen Gebühren ermöglicht.
