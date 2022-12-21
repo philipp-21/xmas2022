@@ -1,7 +1,8 @@
 ---
 layout: default.liquid
+title: Frohe Weihnachten!
 ---
-## Blog!
+# Frohe Weihnachten!
 
 {% for post in collections.posts.pages %}
 #### {{post.title}}
