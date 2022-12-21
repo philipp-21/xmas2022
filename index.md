@@ -1,6 +1,6 @@
 ---
 
-# Anleitung
+# Anleitung Gutschein
 
 1. Bitcoin Lightning Wallet[^1] installieren (Empfehlung: [Muun Wallet](https://muun.com))
 2. QR-Code scannen und Bitcoin erhalten
