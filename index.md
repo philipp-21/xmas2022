@@ -3,13 +3,14 @@
 1. Bitcoin Lightning Wallet[^1] installieren (Empfehlung: [Muun Wallet](https://muun.com))
 2. QR-Code scannen und Bitcoin erhalten
 
-### Hinweis für [Muun Wallet](https://muun.com)
-Zur sicheren Verwahrung sollten alle in der App vorgeschlagenen-Backup Methoden durchgeführt werden.
+### Hinweise für [Muun Wallet](https://muun.com)
+- zur sicheren Verwahrung sollten alle in der App vorgeschlagenen Backup-Methoden durchgeführt werden
+- für keine bis weniger Gebühren beim Versenden sollte unter 'Settings - Lightning Network' 'Turbo channels' deaktiviert werden
 
 ## Was ist Bitcoin?
 
-[Einstiegsvideo](https://www.youtube.com/watch?v=Oztd2Sja4k0)
-[weitere gute Quellen (Artikel, Videos, Bücher)](https://www.youtube.com/)
+- [Einstiegsvideo](https://www.youtube.com/watch?v=Oztd2Sja4k0)
+- [weitere Quellen (Artikel, Videos, Bücher)](https://www.youtube.com/)
 
 ## Fußnoten
 
