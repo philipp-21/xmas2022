@@ -6,4 +6,4 @@
 
 ## Was ist Bitcoin?
 
-(Einstiegsvideo)[https://www.youtube.com/watch?v=Oztd2Sja4k0]
+[Einstiegsvideo](https://www.youtube.com/watch?v=Oztd2Sja4k0)
