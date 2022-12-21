@@ -1,5 +1,3 @@
----
-
 # Anleitung Gutschein
 
 1. Bitcoin Lightning Wallet[^1] installieren (Empfehlung: [Muun Wallet](https://muun.com))
