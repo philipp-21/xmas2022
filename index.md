@@ -5,7 +5,7 @@
 
 ##### Hinweise für Muun Wallet:
 - zur sicheren Verwahrung sollten alle in der App vorgeschlagenen Backup-Methoden durchgeführt werden
-- um Gebühren beim Versenden zu minimieren, sollte unter *Settings - Lightning Network* **Turbo channels** deaktiviert werden
+- um Gebühren beim Versenden zu minimieren, sollte unter (*Settings - Lightning Network*) **Turbo channels** deaktiviert werden
 
 ## Was ist Bitcoin?
 
