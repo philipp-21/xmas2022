@@ -9,7 +9,7 @@
 
 ## Was ist Bitcoin?
 
-- [Einstiegsvideo](https://www.youtube.com/watch?v=Oztd2Sja4k0) (10min)
+- [Einstiegsvideo](https://www.youtube.com/watch?v=Oztd2Sja4k0) (10 min)
 - [Empfehlungen für weitere Quellen](https://philipp-21.github.io/21recommendations) (Videos, Artikel, Bücher)
 
 ---
